@@ -8,7 +8,7 @@
 * main - Entry point
 *
 * Description: 'This is a betty comment'
-* 
+*
 * Return: Always 0 (Success)
 **/
 int main(void)
