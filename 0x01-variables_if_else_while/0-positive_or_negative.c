@@ -5,8 +5,11 @@
 
 /* betty style doc for function main goes there */
 /**
-* This is a betty comment
-* a multiline one
+* main - Entry point
+*
+* Description: 'This is a betty comment'
+* 
+* Return: Always 0 (Success)
 **/
 int main(void)
 {
